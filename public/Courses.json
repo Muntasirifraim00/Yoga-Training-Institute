@@ -1,0 +1,62 @@
+[
+  {
+    "key": "1",
+    "img": "https://mindbodygreen-res.cloudinary.com/images/w_767,q_auto:eco,f_auto,fl_lossy/org/7xfl56o82k70oy7ca/vinyasa-yoga-101.jpg",
+    "name": " Vinyasa yoga",
+    
+    "shortdescription": "Vinyasa means to place in a special way and, in this case, yoga postures.",
+
+    "description": "Vinyasa means to place in a special way and, in this case, yoga postures. Vinyasa yoga is the often considered the most athletic yoga style. Vinyasa was adapted from ashtanga yoga in the 1980s. "
+  },
+  {
+    "key": "2",
+        "img": "https://mindbodygreen-res.cloudinary.com/images/w_767,q_auto:eco,f_auto,fl_lossy/org/7xfl56o82k70oy7ca/vinyasa-yoga-101.jpg",
+        "name": "Iyengar yoga",
+
+    "description": "Iyengar yoga was founded by B.K.S. Iyengar and focuses on alignment as well as detailed and precise movements. In an Iyengar class, students perform a variety of postures while controlling the breath."
+  },
+  {
+    "key": "3",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlEchelPY3A9dYzQav5jNzrEuzW7U_gz20w&usqp=CAU",
+        "name": " Hatha yoga",
+ 
+    "description": "The Sanskrit term is an umbrella term for all physical postures of yoga. In the West, hatha yoga simply refers to all the other styles of yoga (ashtanga, Iyengar, etc.) that are grounded in a physical practice. However, there are other branches of yoga such as kriya, raja, and karma yoga that are separate from the physical-based yoga practice."
+  },
+  {
+    "key": "4",
+        "img": "https://res.cloudinary.com/dgerdfai4/image/upload/ar_1.5,r_10,c_pad/v1572073938/blog/posts/eruhm7089a6kndlklogz.png",
+        "name": "Kundalini yoga",
+
+    "description": "Kundalini yoga practice is equal parts spiritual and physical. This style is all about releasing the kundalini energy in your body said to be trapped, or coiled, in the lower spine."
+  },
+  {
+    "key": "5",
+        "img": "https://www.ashtangayoga.info/fileadmin/_processed_/d/7/csm_Header-Homepage-1340x625-01_27fefa9b1d.jpg",
+        "name": "Ashtanga yoga",
+  
+    "description": "In Sanskrit, ashtanga is translated as Eight Limb path. In Mysore, India, people gather to practice this form of yoga together at their own pace—if you see Mysore-led ashtanga, it's expected of you to know the series. "
+  },
+  {
+    "key": "6",
+    "img": "https://www.verywellfit.com/thmb/Cd_L63hKMILFCyunW6x_4DdJWXk=/3675x2540/filters:fill(FFDB5D,1)/bikram-yoga-juanmonino-e-getty-569feb975f9b58eba4adee2c.jpg",
+    "name": "Bikram yoga",
+
+    "description": "Bikram yoga is named after Bikram Choudhury and features a sequence of set poses in a sauna-like room—typically set to 105 degrees and 40 humidity. Choudhury faced sexual assault and harassment l"
+  },
+  {
+    "key": "7",
+        "img": "https://www.kurumba.com/uploads/experiences/majaa/yin-yoga.jpg",
+
+        "name": "Yin yoga",
+
+    "description": "Yin yoga is a slow-paced style of yoga with seated postures that are held for longer periods of time. Yin can also be a meditative yoga practice that helps you find inner peace."
+  },
+  {
+   
+    "key": "8",
+    "img": "https://www.verywellfit.com/thmb/h1pLHQbAV326asv73wHQNajkRGg=/500x350/filters:no_upscale():max_bytes(150000):strip_icc()/beautiful-young-yoga-girl-lying-in-asana-shavasana-653952114-74c56c2a731b439b8e9f7d0dc0b9dbd2.jpg",
+    "name": "Restorative yoga",
+
+    "description": "Restorative yoga focuses on winding down after a long day and relaxing your mind. At its core, this style focuses on body relaxation. Restorative yoga also helps to cleanse and free your mind."
+  }
+]

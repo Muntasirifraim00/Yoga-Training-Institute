@@ -1,0 +1,8 @@
+[debug] [2021-10-20T17:19:04.810Z] ----------------------------------------------------------------------
+[debug] [2021-10-20T17:19:04.814Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\asus\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2021-10-20T17:19:04.814Z] CLI Version:   9.20.0
+[debug] [2021-10-20T17:19:04.815Z] Platform:      win32
+[debug] [2021-10-20T17:19:04.815Z] Node Version:  v14.17.1
+[debug] [2021-10-20T17:19:04.816Z] Time:          Wed Oct 20 2021 23:19:04 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-10-20T17:19:04.816Z] ----------------------------------------------------------------------
+[debug] 
