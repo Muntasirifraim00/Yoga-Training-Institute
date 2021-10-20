@@ -13,8 +13,7 @@ const Login = () => {
   const {
     signInWithEmail,
     signInWithGoogle,
-    signInWithFacebook,
-    signInWithGithub,
+
     getPassword,
     getEmail,
     setError,
